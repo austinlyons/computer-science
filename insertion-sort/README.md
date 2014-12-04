@@ -1,9 +1,11 @@
+<pre>
   ___                     _   _               ____             _   
  |_ _|_ __  ___  ___ _ __| |_(_) ___  _ __   / ___|  ___  _ __| |_ 
   | || '_ \/ __|/ _ \ '__| __| |/ _ \| '_ \  \___ \ / _ \| '__| __|
   | || | | \__ \  __/ |  | |_| | (_) | | | |  ___) | (_) | |  | |_ 
  |___|_| |_|___/\___|_|   \__|_|\___/|_| |_| |____/ \___/|_|   \__|
-                                                                   
+</pre>
+
 # How it works
 Insertion sort is an incremental sort that works 
 similar to sorting a hand of cards as it's dealt. 
