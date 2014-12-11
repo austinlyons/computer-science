@@ -1,9 +1,11 @@
+<pre>
   __  __                       ____             _   
  |  \/  | ___ _ __ __ _  ___  / ___|  ___  _ __| |_ 
  | |\/| |/ _ \ '__/ _` |/ _ \ \___ \ / _ \| '__| __|
  | |  | |  __/ | | (_| |  __/  ___) | (_) | |  | |_ 
  |_|  |_|\___|_|  \__, |\___| |____/ \___/|_|   \__|
                   |___/                             
+</pre>
 # How it works
 Merge sort recursively divides the input array up into single element
 arrays. It then merges all of the single element arrays into sorted two
